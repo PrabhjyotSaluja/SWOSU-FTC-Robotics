@@ -1,3 +1,5 @@
 <h1> SWOSU FTC Robotics </h1>
-<h2> Please share your code on this repository </h2>
+
+This is the official github repository for FTC Robotics team at Southwestern Oklahoma State University, Weatherford, Oklahoma.
+All the team members are requested to share your code on this repositiry, that way it will be easier to keep a track and we'll be able to make a better software.
 
